@@ -222,7 +222,7 @@ export default function Portfolio() {
               <p className="text-gray-300 leading-relaxed">
                 I'm passionate about leveraging data and metrics to continuously improve quality and enjoy tackling
                 complex challenges in areas like Web Development, Mobile Applications, AI Models, and DevOps.
-                I hold a Bachelor's in Mechatronics from <span className="text-red-500">Egyptian Chinese</span> and
+                I hold a Bachelor's in Mechatronics from <span className="text-red-500">Egyptian Chinese College</span> and
                 am currently pursuing advanced certifications.
               </p>
 
